@@ -19,6 +19,10 @@ Write the C Program using Linux Process API - Semaphores
 Execute the C Program for the desired output. 
 
 ## PROGRAM:
+```
+Developed by : SUDHIR KUMAR .R
+Register number : 212223230221
+```
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
 ```
@@ -103,12 +107,11 @@ if(NUM_LOOPS>=10)    {
 
 ## $ ./sem.o
 
-![Screenshot 2024-04-18 084147](https://github.com/guru14789/Linux-IPC-Semaphores/assets/151705853/ac77908e-d4d6-46ef-998a-f316761790c2)
+![323454044-ac77908e-d4d6-46ef-998a-f316761790c2](https://github.com/Sudhirr5/Linux-IPC-Semaphores/assets/139332214/8722fa1f-28f3-4b59-b19f-f9e8be14dab1)
 
 ## $ ipcs
 
-![Screenshot 2024-04-18 084156](https://github.com/guru14789/Linux-IPC-Semaphores/assets/151705853/f54bd032-942b-4239-a9d3-9191aa76db78)
-
+![323454056-f54bd032-942b-4239-a9d3-9191aa76db78](https://github.com/Sudhirr5/Linux-IPC-Semaphores/assets/139332214/d7e288dd-94f6-4edd-ba8e-200217603234)
 
 ## RESULT:
 
